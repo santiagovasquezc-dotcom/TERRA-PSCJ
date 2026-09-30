@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "Finca con piscina y jardines",
+    "tipo": "Finca",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-1-finca-piscina.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Casa moderna con jardín",
+    "tipo": "Casa",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-2-casa-moderna.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  },
+  {
+    "id": 3,
+    "titulo": "Casa campestre con amplias zonas verdes",
+    "tipo": "Finca",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-3-casa-campestre.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  },
+  {
+    "id": 4,
+    "titulo": "Casa con salón panorámico",
+    "tipo": "Casa",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-4-casa-salon.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  },
+  {
+    "id": 5,
+    "titulo": "Casa de campo con zona verde",
+    "tipo": "Finca",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-5-casa-jardin.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  },
+  {
+    "id": 6,
+    "titulo": "Lote con arborización",
+    "tipo": "Lote",
+    "ubicacion": "Oriente Antioqueño",
+    "area_m2": null,
+    "precio": null,
+    "habitaciones": null,
+    "descripcion": "",
+    "imagen": "imagenes/propiedad-6-lote.jpg",
+    "estado": "Disponible",
+    "publicada": true
+  }
+]
